@@ -1,0 +1,18 @@
+h2 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 42px;
+    text-transform: uppercase;
+    margin-top: 65px;
+}
+*{
+	font-family: 'Roboto', sans-serif;
+	color: #333;
+	background-color: #eaeaea;
+}
+ul {
+    list-style-type: none;
+    padding-left: 0;
+    text-align: center;
+}
+
